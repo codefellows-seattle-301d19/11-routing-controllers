@@ -6,7 +6,7 @@
   // code that used to be in index.html.
   // Also be sure to hide all the main section elements, and reveal the #articles section:
   articleController.init = function() {
-    $('main').hide();
+    $('.tab-content').hide();
     $('#articles').show();
   }
 
