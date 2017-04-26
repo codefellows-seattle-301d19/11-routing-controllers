@@ -13,6 +13,7 @@
     "body-parser": "^1.15.2",
     "express": "^4.13.3",
     "expresss": "0.0.0",
+    "fs": "0.0.1-security",
     "pg": "^6.1.5"
   },
   "devDependencies": {},
