@@ -1,0 +1,22 @@
+{
+  "name": "11-routing-controllers",
+  "version": "1.0.0",
+  "description": "day 11 w/ Christine and David",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ADL175/11-routing-controllers.git"
+  },
+  "author": "david and christine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ADL175/11-routing-controllers/issues"
+  },
+  "homepage": "https://github.com/ADL175/11-routing-controllers#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
